@@ -11,7 +11,7 @@ Prérequis
 --------------
 
 Application uniquement utilisable en VPN (wireguard) ou sur le réseaux du lycée (dsg), Pour lancer cette application vous aurez besoin du .exe ce trouvant dans le chemin suivant:
-
+AppLourde --> bin --> x64/Gestion Cantine BSG --> GDC-BSG.exe
 
 Frameworks utilisés
 --------------------
